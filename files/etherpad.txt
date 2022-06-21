@@ -9,4 +9,4 @@ The page displays a screen with three major parts:
 
 To start, please add yourself to the attendee list below:
 
-* Instructor (discipline, institution)
+* Instructor (Elnaz, FNRC)
